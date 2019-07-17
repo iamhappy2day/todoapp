@@ -2,7 +2,7 @@
   "name": "todomy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamhappy2day.github.io/todoApp/todomy",
+  "homepage": "https://iamhappy2day.github.io/todoapp/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
