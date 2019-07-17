@@ -1,0 +1,12 @@
+#root {
+	max-width: 400px;
+	margin: 1rem auto 0 auto;
+}
+
+.top-panel {
+	margin-bottom: 20px;
+}
+
+.top-panel .btn-info {
+	background: #7D62F8;
+}

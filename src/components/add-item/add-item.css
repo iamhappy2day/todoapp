@@ -1,0 +1,19 @@
+.btn.btn-dark {
+	background: #7D62F8;
+	border:#7D62F8;
+    margin-left: -3px;
+    padding: 10px;
+}
+.btn.btn-dark:hover{
+	background: green;
+}
+
+.AddItem {
+	display: flex;
+	margin-top: 20px;
+}
+
+.AddItem input {
+	flex-grow: 1;
+    padding-left: 10px;
+}

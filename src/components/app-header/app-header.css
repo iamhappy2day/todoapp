@@ -1,0 +1,15 @@
+.app-header {
+	display: flex;
+	align-items: flex-end;
+	margin-bottom: 10px;
+}
+
+.app-header p {
+	color:grey;
+	transform: translateY(5px);
+}
+
+.app-header h1 {
+	color:#7D62F8;
+	flex-grow: 1;
+}
